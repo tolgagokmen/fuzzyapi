@@ -1,2 +1,2 @@
 # fuzzyapi
-This project aim to build generic project to solve problems like Fuzzy control systems are dependent on human expertise and knowledge.
+This project aims to build a generic project to solve problems like Fuzzy control systems that are dependent on human expertise and knowledge.
